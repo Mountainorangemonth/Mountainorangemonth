@@ -27,28 +27,19 @@
 
 ## 👋 关于我 · About Me
 
-> *"Programs must be written for people to read, and only incidentally for machines to execute."* —— Harold Abelson
+> *"Understand the machine. Then bend it. 🔩"*
 
-
-const mountainorangemonth = {
-  name:     "Mountainorangemonth",
-  pronouns: "he / him",
-  location: "🌏 Earth · Remote-Friendly",
-  role:     "Low-Level Developer · Binary Security Researcher",
-
-  // 主战场
-  languages: ["C", "C++", "Assembly (x86-64 / ARM64)", "Rust"],
-
-  // 逆向 & 安全
-  reverse:   ["IDA Pro", "Ghidra", "x64dbg", "Frida", "GDB / LLDB"],
-  security:  ["Pwn", "Fuzzing", "Patch Diffing", "Malware Analysis"],
-
-  // 底层 / 基础设施
-  lowlevel:  ["LLVM", "QEMU", "Capstone", "Unicorn", "Linux Kernel"],
-  tools:     ["Neovim", "Tmux", "Git", "Docker"],
-
-  learning:  ["LLVM IR", "Windows Kernel", "Compiler & Obfuscation"],
-  hobbies:   ["🎧 Music", "📷 Photography", "🏔️ Hiking"],
-
-  motto:     "Understand the machine. Then bend it. 🔩",
-} as const;
+<table>
+  <tr><td><b>Name</b></td><td>Mountainorangemonth</td></tr>
+  <tr><td><b>Pronouns</b></td><td>he / him</td></tr>
+  <tr><td><b>Location</b></td><td>🌏 Earth · Remote-Friendly</td></tr>
+  <tr><td><b>Role</b></td><td>Low-Level Developer · Binary Security Researcher</td></tr>
+  <tr><td><b>Languages</b></td><td>C · C++ · Assembly (x86-64 / ARM64) · Rust</td></tr>
+  <tr><td><b>Reverse</b></td><td>IDA Pro · Ghidra · x64dbg · Frida · GDB / LLDB</td></tr>
+  <tr><td><b>Security</b></td><td>Pwn · Fuzzing · Patch Diffing · Malware Analysis</td></tr>
+  <tr><td><b>Low-Level</b></td><td>LLVM · QEMU · Capstone · Unicorn · Linux Kernel</td></tr>
+  <tr><td><b>Tools</b></td><td>Neovim · Tmux · Git · Docker</td></tr>
+  <tr><td><b>Learning</b></td><td>LLVM IR · Windows Kernel · Compiler & Obfuscation</td></tr>
+  <tr><td><b>Hobbies</b></td><td>🎧 Music · 📷 Photography · 🏔️ Hiking</td></tr>
+  <tr><td><b>Motto</b></td><td>Understand the machine. Then bend it. 🔩</td></tr>
+</table>
